@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @D1noD3v and I'm a student, currently studying to become a programer.
 - 👀 I’m interested in Web development, game development and music.
-- 🌱 I’m currently learning Java, Javascript, HTML, CSS and Python.
+- 🌱 I’m currently learning Java, Javascript, C++, and Node.js.
 
 - 😎 I hope to be able to help on many open-source projects and someday make my own!
 
